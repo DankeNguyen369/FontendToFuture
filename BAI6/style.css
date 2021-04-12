@@ -1,0 +1,49 @@
+#motA {
+  color: red;
+}
+
+#motB {
+  color: green;
+}
+#oh {
+  color: aqua;
+}
+
+.divB3 {
+  width: 200px;
+  height: 200px;
+  background: wheat;
+  font-size: 30px;
+  text-align: center;
+  line-height: 200px;
+  /*  code vào phần bên dưới  */
+  border: 3px solid blue;
+  border-radius: 45px;
+}
+
+.divB4{
+    background: wheat;
+    width:400px;
+    border: 2px solid green;
+  /*  Code vào phần bên dưới  */
+    /* padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 45px;
+    padding-bottom: 45px; */
+    padding: 45px 40px 45px;
+}
+
+#a >div {
+    background:wheat;
+    /*  code vào phần bên dưới   */
+    margin: 50px 60px 50px 40px 
+  }
+  
+  
+  
+  
+  
+  #a{
+    /* Không code vào đây */
+    border:1px solid black
+  }

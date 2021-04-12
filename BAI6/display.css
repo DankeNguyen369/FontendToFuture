@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  .display1 {
+    display: inline;
+    background-color: red;
+  }
+  #span1 {
+    background: red;
+  }
+  #span2 {
+    background: yellow;
+    display: inline-block;
+    width: 500px;
+  }
+  .span1 {
+    background: red;
+    display: block;
+  }
+  
+  .span2 {
+    background: blue;
+  }
+
+  span{
+    background: red;
+  }
+  div{
+    background: blue;
+  }

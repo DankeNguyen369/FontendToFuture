@@ -1,0 +1,45 @@
+/* cách viết css 
+css selector: 
+    id dùng #
+    class dùng . 
+/* css specificity */
+
+/* ***background */
+backgound{
+    background-color: ;
+
+}
+
+font{
+    
+}
+text{
+    text-align: ;
+    text-decoration: ;
+}
+
+box-model{
+    margin: ;
+    padding: ;
+    width: ;
+    height: ;
+    border: ;
+    box-sizing: ;
+    border-box: ;
+    content-box: ;
+
+}
+
+/* web component  */
+layout{
+    rol 
+    col
+}
+position{
+    absolute
+    relative
+    fixed
+
+}
+
+flex-box
