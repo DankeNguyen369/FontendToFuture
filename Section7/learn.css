@@ -1,0 +1,81 @@
+/* .parent{
+    background-color: beige;
+    height: 300px;
+    margin-top: 50px;
+    margin-left: 50px;
+    position: relative;
+}
+
+.parent .child-1{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: absolute;
+    z-index: 2;
+}
+.parent .child-2{
+    width: 100px;
+    height: 100px;
+    background-color:green;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    z-index: 1;
+}
+.parent .child-3{
+    width: 100px;
+    height: 100px;
+    background-color:blue;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    z-index: 3;
+} */
+
+
+.parent{
+    margin: auto;
+
+
+    width: 1000px;
+    height: 400px;
+    background-color: beige;
+    position: relative;
+
+    background-image: url("./cover.jpg") ;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+}
+
+.parent Button{
+    position: absolute;
+    bottom: 15px;
+    right: 35px;
+    font-family: inherit;
+    box-sizing: border-box;
+    height: 36px;
+    width: 140px;
+    font-size: 15px;
+    border-radius: 10px;
+    border: none;
+    background-color: transparent 0.8;
+    font-weight: bold;
+}
+.parent span{
+    border: 3px solid white;
+}
+.parent .avatar{
+    position: absolute;
+    width: 20%;
+    border-radius: 50%;
+    bottom: -30px;
+    left: 43%;
+    
+}
+
+.text{
+    text-align: center;
+   
+}

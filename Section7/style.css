@@ -1,0 +1,71 @@
+position
+
+/* flexbox */
+.component-wrapper{
+    width: 460px;
+}
+
+.component-wrapper a{
+    font-size: 26px;
+    color: #222;
+    font-weight: normal;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.component-wrapper p{
+    font-size: 14px;
+    color: #444;
+}
+
+.component-wrapper1{
+    width: 340px;
+}
+
+.tittle{
+    display: block;
+    padding-left: 12px;
+    border-left: 4px solid #ff6115;
+    font-family: SFD-Heavy;
+    font-size: 23px;
+    height: 20px;
+    line-height: 20px;
+    color: #2d2d2d;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+a{
+    text-decoration: none;
+    color: #222;
+}
+
+.first-link {
+    font-family: SFD-Bold;
+    font-size: 20px;
+    line-height: 24px;
+    color: #2d2d2d;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color .3s;
+}
+
+.component-wrapper1 p{
+    font-size: 14px;
+    line-height: 20px;
+    color: #555;
+    margin-top: 8px;
+}
+
+.an{
+    font-family: SFD-Semibold;
+    font-size: 15px;
+    line-height: 18px;
+    color: #2d2d2d;
+    text-decoration: none;
+    transition: color .3s;
+    -webkit-transition: color .3s;
+    -moz-transition: color .3s;
+    display: block;
+    font-weight: bold;
+}
